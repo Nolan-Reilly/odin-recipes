@@ -1,0 +1,14 @@
+.heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.back-btn {
+  background: black;
+  padding: 8px 16px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 4px;
+  font-family: sans-serif;
+}
