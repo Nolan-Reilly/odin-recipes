@@ -1,6 +1,12 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+}
+
 .heading {
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+  margin-top: 0;
 }
 
 .back-btn {
@@ -11,4 +17,13 @@
   display: inline-block;
   margin-top: 4px;
   font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 16px;
+}
+
+img {
+  width: 75%;
 }
